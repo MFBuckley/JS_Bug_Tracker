@@ -20,4 +20,4 @@ Chancejs - to generate unique identifiers for each issue submitted.
 
 ## Content
 
-Inpired by this (video)[https://www.youtube.com/watch?v=NYq9J-Eur9U&t=800s] on youtube
+Inspired by this (video)[https://www.youtube.com/watch?v=NYq9J-Eur9U&t=800s] on youtube
